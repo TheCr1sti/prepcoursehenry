@@ -1,2 +1,1 @@
-# prepcoursehenry
-este es un curso del  modulo 2 de henry
+este proyecto es una prueba de como clonar  
